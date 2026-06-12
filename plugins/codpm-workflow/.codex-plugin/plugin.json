@@ -1,0 +1,9 @@
+{
+  "description": "Run codpm-workflow from the installed public package CLI.",
+  "name": "codpm-workflow",
+  "schema_version": "v1",
+  "skills": [
+    "skills/codpm-workflow/SKILL.md"
+  ],
+  "version": "0.1.0"
+}
